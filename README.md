@@ -1,3 +1,7 @@
+<p align="center">
+  <a href="https://github.com/PyreCore"><img src="https://raw.githubusercontent.com/PyreCore/portfolio/main/branding/pyrecore-logo.png" alt="PyreCore" height="56"></a>
+</p>
+
 # Linux_Admin
 
 Collection of Linux administration scripts (Bash).
